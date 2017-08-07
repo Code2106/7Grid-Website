@@ -64,9 +64,6 @@ img.emoji {
 /*Content*/
 #contentTitle{
 
- padding-bottom: 5%;
- margin-bottom: 40px;
-
 }
 
 /*thumbanils, headers, details*/
@@ -238,7 +235,7 @@ label{
 }
 
 textarea.form-control {
-    height: 135px;
+    height: 275px;
    /* margin-top: px;*/
 }
 
